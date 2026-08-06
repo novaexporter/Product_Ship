@@ -23,6 +23,6 @@
     "unitPrice": "897.98",
     "unit": "5x10ml",
     "category": "Pharma",
-    "image": "https://upload.meeshosupplyassets.com/cataloging/1786013658020/138475.jpg"
+    "image": "https://upload.meeshosupplyassets.com/cataloging/1786027259558/138492.jpg"
   }
 ]
