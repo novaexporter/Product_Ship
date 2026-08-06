@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "searchKeyword": "5x Eyemist Gel 10g",
+    "productName": "5x Eyemist Gel 10g",
+    "alternateName": "Himalaya Antiseptic Cream",
+    "hsnCode": "30049011",
+    "dimension": "15x11x4",
+    "weight": "120g",
+    "unitPrice": "789.42",
+    "unit": "5x10g",
+    "category": "Pharma",
+    "image": "https://upload.meeshosupplyassets.com/cataloging/1786013658020/138475.jpg"
+  },
+  {
+    "id": 2,
+    "searchKeyword": "5X Chloramphenicol Eye Drops 10ml",
+    "productName": "5X Chloramphenicol Eye Drops 10ml",
+    "alternateName": "Moxi D Eye drops",
+    "hsnCode": "30049011",
+    "dimension": "18x10x5",
+    "weight": "150g",
+    "unitPrice": "897.98",
+    "unit": "5x10ml",
+    "category": "Pharma",
+    "image": "https://upload.meeshosupplyassets.com/cataloging/1786027259558/138492.jpg"
+  }
+]
